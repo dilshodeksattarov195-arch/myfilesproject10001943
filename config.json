@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "producteave",
+        "uuid": 16389205,
+        "checksum": "1lecae"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
